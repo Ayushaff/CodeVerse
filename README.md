@@ -1,13 +1,8 @@
-
-<img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="image-description" height="100">
-<img src="https://redux-toolkit.js.org/img/redux-logo-landscape.png" alt="image-description" height="100">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/885px-Node.js_logo.svg.png?20170401104355" alt="image-description" height="100">
-
 ## Installation
 
 - clone the repository
 ```bash
-git clone https://github.com/aaditya45/hackit
+git clone https://github.com/Ayushaff/CodeVerse
 ```
 - set Environment variables (have a .env file for it)
 - run the command on your terminal/cmd
@@ -20,27 +15,20 @@ npm run client-dev
 ```
 
 ## Features
-
-- Online code editor supporting Node.js, Python, and Java.
-- Real-time code suggestions to enhance productivity.
-- Multiple theme options available, including dark and light themes.
-- Ability to provide input from files or hardcode it.
-- User-friendly file upload and download functionality.
+- Experience the convenience of an online code editor supporting popular programming languages like Node.js, Python, and Java.
+- Seamlessly input data from files or manually enter it for maximum flexibility.
+- Boost productivity with real-time code suggestions, enabling faster and error-free coding.
+- Personalize your coding environment with dark and light themes to suit your preferences.
+- Enjoy easy file upload and download features for efficient code file management.
 
 ## Usage
 
-Once you have HackIt up and running, you can start using it by following these steps:
+Once its is running, follow these steps:
 
-1. Select your preferred programming language (Node.js, Python, or Java) from the language dropdown.
-
-2. Choose a theme (dark or light) from the theme options to customize the editor's appearance.
-
-3. Begin writing your code in the editor area. The code suggestions feature will provide real-time suggestions to help you write code more efficiently.
-
-4. If your code requires input, you can either provide it from a file or hardcode it by using the available options.
-
-5. To execute the code, click on the "Run" button. The code will be compiled and executed on the server-side.
-
-6. The output of the code will be displayed in the output area below the editor.
-
-7. If you need to upload or download code files, you can use the file upload and download functionality provided in the user interface.
+1. Select a programming language (Node.js, Python, or Java) from the dropdown menu.
+2. Personalize the editor's appearance by choosing a theme (dark or light).
+3. Write code in the editor. Real-time suggestions will enhance coding efficiency.
+4. Provide input from a file or hardcode it using available options.
+5. Click "Run" to execute the code on the server-side.
+6. View the output below the editor.
+7. Utilize the file upload and download functionality for code files.
